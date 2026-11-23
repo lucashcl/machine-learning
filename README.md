@@ -1,5 +1,14 @@
-<img src="assets/icon.svg" width="64" height="64" alt="">
+# Machine Learning
 
-# Machine learning
+Repositório destinado ao desenvolvimento de atividades, experimentos e projetos da disciplina de Machine Learning.
 
-Created in [T3 Code](https://t3.codes).
+## Informações acadêmicas
+
+- Instituição: Faculdade de Petrolina (FACAPE)
+- Curso: Ciência da Computação
+- Disciplina: Machine Learning
+- Professor: Mateus Amorim
+
+## Objetivo
+
+Aplicar conceitos e técnicas de aprendizado de máquina na resolução de problemas práticos, explorando métodos de treinamento, análise de dados e avaliação de modelos.
